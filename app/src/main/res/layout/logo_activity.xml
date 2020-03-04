@@ -3,7 +3,8 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_launcher_background">
 
     <ImageView
         android:id="@+id/imageView2"
@@ -29,9 +30,10 @@
         android:layout_width="212dp"
         android:layout_height="92dp"
         android:layout_marginTop="16dp"
-        android:background="#4C4C4C"
+        android:background="@color/colorPrimaryDark"
         android:onClick="onClickStart"
         android:text="@string/button_start"
+        android:textColor="@color/design_default_color_on_primary"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"

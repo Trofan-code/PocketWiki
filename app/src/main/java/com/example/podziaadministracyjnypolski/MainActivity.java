@@ -24,8 +24,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private  Toolbar toolbar;
     private WebView wb;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
