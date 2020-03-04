@@ -68,22 +68,5 @@
             android:id="@+id/id_menu_sixteenth"
             android:icon="@android:drawable/ic_input_add"
             android:title="@string/name_menu_16" />
-
-
-
     </group>
-
-    <item android:title="Разное">
-        <menu>
-            <item
-                android:id="@+id/id_fifth"
-                android:icon="@drawable/ic_menu_share"
-                android:title="edte" />
-            <item
-                android:id="@+id/id_sixth"
-                android:icon="@drawable/ic_menu_send"
-                android:title="edtwedsger" />
-        </menu>
-    </item>
-
 </menu>
