@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="first_array">
+        <item>Wrocław</item>
+        <item>Wałbrzych</item>
+        <item>Legnica</item>
+        <item>Jelenia Góra</item>
+    </string-array>
+    <string-array name="second_array">
+        <item>Bydgoszcz</item>
+        <item>Toruń</item>
+        <item>Włocławek</item>
+        <item>Grudziądz</item>
+        <item> </item>
+    </string-array>
+    <string-array name="third_array">
+        <item>Lublin</item>
+        <item>Zamość</item>
+        <item>Chełm</item>
+        <item>Biała Podlaska</item>
+    </string-array>
+    <string-array name="fourth_array">
+        <item>Zielona Góra</item>
+        <item>Gorzów Wielkopolski</item>
+    </string-array>
+    <string-array name="fifth_array">
+        <item>Łódź</item>
+        <item>Piotrków Trybunalski</item>
+        <item>Pabianice</item>
+    </string-array>
+    <string-array name="sixth_array">
+        <item>Kraków</item>
+        <item>Tarnów</item>
+        <item>Nowy Sącz</item>
+    </string-array>
+
+    <string-array name="for_example_array">
+        <item name="url_menu_1">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie</item>
+        <item name="url_menu_2">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_kujawsko-pomorskie</item>
+        <item name="url_menu_3">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_lubelskie</item>
+        <item name="url_menu_4">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_lubuskie</item>
+        <item name="url_menu_5">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%82%C3%B3dzkie</item>
+        <item name="url_menu_6">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_ma%C5%82opolskie</item>
+        <item name="url_menu_7">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_mazowieckie</item>
+        <item name="url_menu_8">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_opolskie</item>
+        <item name="url_menu_9">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_podkarpackie</item>
+        <item name="url_menu_10">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_podlaskie</item>
+        <item name="url_menu_11">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_pomorskie</item>
+        <item name="url_menu_12">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bl%C4%85skie</item>
+        <item name="url_menu_13">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie</item>
+        <item name="url_menu_14">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_warmi%C5%84sko-mazurskie</item>
+        <item name="url_menu_15">https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_wielkopolskie</item>
+        <item name="url_menu_16">Zhttps://pl.wikipedia.org/wiki/Wojew%C3%B3dztwo_zachodniopomorskie</item>
+    </string-array>
+
+</resources>

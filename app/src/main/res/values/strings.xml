@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Podział administracyjny Polski</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Podział administracyjny Polski</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="for_text_content_image">Image</string>
+
+
+    <string name="button_start">START</string>
+    <string name="text_logo">Lista miast w Polsce</string>
+
+    <!-- start text activity_main_drawer -->
+    <string name="name_menu_1">Dolnośląskie</string>
+    <string name="name_menu_2">Kujawsko-pomorskie</string>
+    <string name="name_menu_3">Lubelskie</string>
+    <string name="name_menu_4">Lubuskie</string>
+    <string name="name_menu_5">Łódzkie</string>
+    <string name="name_menu_6">Małopolskie</string>
+    <string name="name_menu_7">Mazowieckie</string>
+    <string name="name_menu_8">Opolskie</string>
+    <string name="name_menu_9">Podkarpackie</string>
+    <string name="name_menu_10">Podlaskie</string>
+    <string name="name_menu_11">Pomorskie</string>
+    <string name="name_menu_12">Śląskie</string>
+    <string name="name_menu_13">Świętokrzyskie</string>
+    <string name="name_menu_14">Warmińsko-mazurskie</string>
+    <string name="name_menu_15">Wielkopolskie</string>
+    <string name="name_menu_16">Zachodniopomorskie</string>
+    </resources>

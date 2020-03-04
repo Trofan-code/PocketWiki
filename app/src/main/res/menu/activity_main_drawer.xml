@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_menu_first"
+            android:title="@string/name_menu_1" />
+        <item
+            android:id="@+id/id_menu_second"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/name_menu_2" />
+        <item
+            android:id="@+id/id_menu_third"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/name_menu_3" />
+        <item
+            android:id="@+id/id_menu_fourth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_4" />
+        <item
+            android:id="@+id/id_menu_fifth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_5" />
+        <item
+            android:id="@+id/id_menu_sixth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_6" />
+        <item
+            android:id="@+id/id_menu_seventh"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_7" />
+        <item
+            android:id="@+id/id_menu_eighth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_8" />
+        <item
+            android:id="@+id/id_menu_ninth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_9" />
+        <item
+            android:id="@+id/id_menu_tenth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_10" />
+        <item
+            android:id="@+id/id_menu_eleventh"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_11" />
+        <item
+            android:id="@+id/id_menu_twelfth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_12" />
+        <item
+            android:id="@+id/id_menu_thirteenth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_13" />
+        <item
+            android:id="@+id/id_menu_fourteenth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_14" />
+        <item
+            android:id="@+id/id_menu_fifteenth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_15" />
+        <item
+            android:id="@+id/id_menu_sixteenth"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/name_menu_16" />
+
+
+
+    </group>
+
+    <item android:title="Разное">
+        <menu>
+            <item
+                android:id="@+id/id_fifth"
+                android:icon="@drawable/ic_menu_share"
+                android:title="edte" />
+            <item
+                android:id="@+id/id_sixth"
+                android:icon="@drawable/ic_menu_send"
+                android:title="edtwedsger" />
+        </menu>
+    </item>
+
+</menu>
